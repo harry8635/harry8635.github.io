@@ -33,7 +33,7 @@ h1:hover{
     color: red;
 }
 
-div {
+.links {
     margin-left: auto;
     margin-right: auto;
     padding: 2pt;
