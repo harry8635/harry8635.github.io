@@ -30,7 +30,9 @@ h1 {
 }
 
 h1:hover {
-    color: red;
+    font-size: 100pt;
+    transition-duration: 100s;
+    transition-delay: 10s;
 }
 
 .links {
